@@ -1,2 +1,3 @@
-# ngupdate-process-doc
-this is ngupdate process document
+# zenn-doc
+
+this is zenn.dev document
