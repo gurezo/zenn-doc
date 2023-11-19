@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/gurezo/ngupdate-process-doc#readme",
   "devDependencies": {
-    "zenn-cli": "^0.1.148"
+    "zenn-cli": "^0.1.149"
   }
 }
