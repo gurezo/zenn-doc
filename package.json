@@ -1,5 +1,5 @@
 {
-  "name": "ngupdate-process-doc",
+  "name": "zenn-doc",
   "version": "1.0.0",
   "description": "this is ngupdate process document",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gurezo/ngupdate-process-doc.git"
+    "url": "git+https://github.com/gurezo/zenn-doc.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gurezo/ngupdate-process-doc/issues"
+    "url": "https://github.com/gurezo/zenn-doc/issues"
   },
-  "homepage": "https://github.com/gurezo/ngupdate-process-doc#readme",
+  "homepage": "https://github.com/gurezo/zenn-doc#readme",
   "devDependencies": {
     "zenn-cli": "^0.1.149"
   }
