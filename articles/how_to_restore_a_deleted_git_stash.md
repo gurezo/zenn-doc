@@ -2,7 +2,7 @@
 title: '削除した git stash の復元手順'
 emoji: '⏮'
 type: 'tech'
-topics: ['github', 'tech']
+topics: ['github']
 published: true
 ---
 
