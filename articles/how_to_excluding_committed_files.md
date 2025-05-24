@@ -3,7 +3,7 @@ title: '任意の過去のコミットを修正する場合'
 emoji: '💻'
 type: 'tech' # tech: 技術記事 / idea: アイデア
 topics: [git]
-published: false
+published: true
 ---
 
 コミットを何回か繰り返した後にコミット対象外のファイルを発見した時の対処方法です。
