@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/gurezo/zenn-doc#readme",
   "devDependencies": {
-    "zenn-cli": "^0.2.10"
+    "zenn-cli": "^0.2.11"
   }
 }
