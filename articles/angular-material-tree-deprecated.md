@@ -2,7 +2,7 @@
 title: 'Angular Material TreeControl 廃止と移行の現状（2026）'
 emoji: '✨'
 type: 'idea' # tech: 技術記事 / idea: アイデア
-topics: [Angular, Material, CDK]
+topics: [angular, angularmaterial, angularcdk]
 published: true
 ---
 
